@@ -43,6 +43,7 @@ Just update your dependencies and reinstall the packages
     "vue": "npm:@knightly/vue@ref-sugar"
   },
   "devDependencies": {
+    "@types/vue": "npm:vue@next",
     "vite": "1.0.0-rc.9",
     "@vue/compiler-sfc": "npm:@knightly/vue__compiler-sfc@ref-sugar"
   }
