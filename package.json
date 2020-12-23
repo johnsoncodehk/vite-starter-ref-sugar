@@ -6,11 +6,10 @@
     "build": "vite build"
   },
   "dependencies": {
-    "vue": "npm:@knightly/vue@ref-sugar"
+    "vue": "next"
   },
   "devDependencies": {
-    "@types/vue": "npm:vue@next",
-    "vite": "1.0.0-rc.9",
-    "@vue/compiler-sfc": "npm:@knightly/vue__compiler-sfc@ref-sugar"
+    "vite": "latest",
+    "@vue/compiler-sfc": "latest"
   }
 }
